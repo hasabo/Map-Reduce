@@ -1,0 +1,9 @@
+StudentId ,Module ,Grade 
+S001 ,Statistic ,75
+S002 ,Statistic ,72
+S001 ,Big Data ,78
+S003 ,Big Data ,66
+S001 ,Programming ,70
+S002 ,Programming ,55
+S001 ,Machine Learning ,65
+S002 ,Machine Learning ,61

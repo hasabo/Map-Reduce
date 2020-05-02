@@ -1,0 +1,7 @@
+UserIdFollower 	UserIdFollowing 	
+U001 	U002 	
+U001 	U003 	
+U002 	U001 	
+U002 	U004 	
+U003 	U001 	
+U004 	U001 	
